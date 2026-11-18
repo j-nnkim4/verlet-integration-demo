@@ -1,1 +1,1 @@
-# this is a physics engine test
+# this is a verlet physics simulation
